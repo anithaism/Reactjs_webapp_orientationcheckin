@@ -1,0 +1,10 @@
+body {
+  padding: 20px;
+  margin: 0;
+  font-size: medium;
+  font-family: Georgia;
+}
+
+input {
+  border: 2px solid blue;
+}
